@@ -18,4 +18,4 @@ h) $-a^2 < 0$, ako je a negativan broj;
 
 # Rešenje
 
-Svi primeri su iskazi.
+Za svaku rečenicu može da se utvrdi da li je tačna ili netačna, tako da, sve rečenice su iskazi.
