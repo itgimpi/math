@@ -1,75 +1,76 @@
 Mathematical Notation
-Here are some common mathematical things you might use in statistics
 
-$x = y $
+```
+$x = y$
+```
 
-$x < y $
+$x = y$,  \$x = y\$
+ 
+$x \neq y$, \$x \neq y\$
 
-$x > y $
+$x < y$, $x > y $
 
-$x \le y $
+$x \le y$, \$x \le y\$
 
-$x \ge y $
+$x \ge y$, \$x \ge y\$
 
-$x^{n}$
+$x^{n}$, \$x^{n}\$
 
-$x_{n}$
+$x_{n}$, \$x_{n}\$
 
-$\overline{x}$
+$\overline{x}$, \$\overline{x}\$
 
-$\hat{x}$
+$\hat{x}$, \$\hat{x}\$, 
 
-$\tilde{x}$
+$\tilde{x}$, \$\tilde{x}\$
 
-$\frac{a}{b}$
+$\frac{a}{b}$, \$\frac{a}{b}\$
 
-$\frac{\partial f}{\partial x}$
+$\frac{\partial f}{\partial x}$, \$\frac{\partial f}{\partial x}\$
 
-$\displaystyle \frac{\partial f}{\partial x}$
+$\displaystyle \frac{\partial f}{\partial x}$, \$\displaystyle \frac{\partial f}{\partial x}\$
 
-$\binom{n}{k}$
+$\binom{n}{k}$, \$\binom{n}{k}\$
 
-$x_{1} + x_{2} + \cdots + x_{n}$
+$x_{1} + x_{2} + \cdots + x_{n}$, \$x_{1} + x_{2} + \cdots + x_{n}\$
 
-$x_{1}, x_{2}, \dots, x_{n}$
+$x_{1}, x_{2}, \dots, x_{n}$, \$x_{1}, x_{2}, \dots, x_{n}\$
 
-\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$ (\bm from the bm pacakge would be better)
+$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$, \$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle\$
 
-$x \in A$
+$|A|$, \$|A|\$
 
-$|A|$
+$x \in A$, \$x \in A\$
 
-$x \in A$
+$x \subset B$, \$x \subset B\$
 
-$x \subset B$
+$x \subseteq B$, \$x \subseteq B\$
 
-$x \subseteq B$
+$A \cup B$, \$A \cup B\$
 
-$A \cup B$
+$A \cap B$, \$A \cap B\$
 
-$A \cap B$
+$X \sim {\sf Binom}(n, \pi)$, \$X \sim {\sf Binom}(n, \pi)\$
 
-$X \sim {\sf Binom}(n, \pi)$ (sf for “slide font”)
+$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)$, \$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)\$
 
-$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)$ (tt for “typewriter type”)
+$P(A \mid B)$, \$P(A \mid B)\$
 
-$P(A \mid B)$
+$\mathrm{P}(A \mid B)$, \$\mathrm{P}(A \mid B)\$
 
-$\mathrm{P}(A \mid B)$ (mathrm for “math roman font”
+$\{1, 2, 3\}$, \$\{1, 2, 3\}\$
 
-$\{1, 2, 3\}$
+$\sin(x)$, \$\sin(x)\$
 
-$\sin(x)$
+$\log(x)$, \$\log(x)\$
 
-$\log(x)$
-
-$\int_{a}^{b}$
+$\int_{a}^{b}$, \$\int_{a}^{b}\$
 
 $\left(\int_{a}^{b} f(x) \; dx\right)$
 
 $\left[\int_{\-infty}^{\infty} f(x) \; dx\right]$
 
-$\left. F(x) \right|_{a}^{b}$
+$\left| F(x) \right|_{a}^{b}$
 
 $\sum_{x = a}^{b} f(x)$
 

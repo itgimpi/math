@@ -17,7 +17,7 @@ $\tau(p) = \bot$.
 
 *Ekvivalencija* iskaza p i q je iskaz koji je tačan ako i samo ako p i q imaju jednake istinitosne vrednosti. Oznaka je $p \iff q$ ili $p \leftrightarrow q$. (p ekvivalentno sa q).
 
-$\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**. $\rightarrow$ $\leftrightarrow$
+$\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**. 
 
 Ovo su osnovne logičke operacije i njima odgovaraju sledeće istinitosne tablice
 
@@ -59,66 +59,75 @@ ekvivalencija
 
 
 Potreban i dovoljan uslov.
-1) Iskazu p ⇒ q odgovaraju slede´ce reˇcenice:
-• p povlaˇci q
-• Iz p sledi q
-• Ako p, onda q
-• q, ako p
-• p je dovoljan uslov za q
-• q je potreban uslov za p.
-2) Iskazu p ⇔ q odgovaraju reˇcenice:
-• p povlaˇci q i q povlaˇci p
-• p je ekvivalentno sa q
-• Iz p sledi q i iz q sledi p
-1)Umesto ako i samo ako ˇcesto se skra´ceno piˇse akko.
-8 PRVA GLAVA
-• q ako p i p ako q
-• p ako i samo ako q
-• p je potreban i dovoljan uslov za q.
-Ako su p i q iskazi, onda su iskazi takod-e ¬p, ¬q, p ∧ q, p ∨ q, p ⇒ q, p ⇔ q.
-Tautologija je iskaz t koji je uvek taˇcan, nezavisno od istinitosnih vrednosti
-iskaza p, q, . . . , r, koji obrazuju t.
-Tautologije su zakoni logiˇckog zakljuˇcivanja i ˇcesto se zapisuju kao:
-p, q
-r
-, ˇsto
-znaˇci (p∧q) ⇒ r, ili na primer:
-p ⇒ q, q ⇒ r
-p ⇒ r
-, ˇsto znaˇci (p ⇒ q)∧(q ⇒ r) ⇒ (p ⇒ r).
-De Morganovi zakoni za konjunkciju i disjunkciju: ¬(p ∧ q) ⇔ (¬p ∨ ¬q) i
-¬(p ∨ q) ⇔ (¬p ∧ q).
+
+1) Iskazu $p \rightarrow q$ odgovaraju sledeće rečenice:
+* p povlači q
+* Iz p sledi q
+* Ako p, onda q
+* q, ako p
+* p je dovoljan uslov za q
+* q je potreban uslov za p.
+
+2) Iskazu $p \leftrightarrow q$ odgovaraju rečenice:
+* p povlači q i q povlači p
+* p je ekvivalentno sa q
+* Iz p sledi q i iz q sledi p
+* q ako p i p ako q
+* p ako i samo ako q
+* p je potreban i dovoljan uslov za q.
+
+Ako su p i q iskazi, onda su iskazi takođe $\lnot p$, $\lnot q$, $p \land q$, $p \lor q$, $p \rightarrow q$, $p \leftrightarrow q$.
+
+*Tautologija* je iskaz t koji je uvek tačan, nezavisno od istinitosnih vrednosti iskaza p, q, ..., r, koji obrazuju t.
+
+Tautologije su zakoni logičkog zaključivanja i često se zapisuju kao: $\displaystyle \frac{p, q}{r}$, što znači $(p \land q) \rightarrow r$, ili na primer: $\displaystyle \frac{p \rightarrow q, q \rightarrow p}{p \rightarrow q}$, što znači $(p \rightarrow q)∧(q \rightarrow r) ⇒ (p \rightarrow r)$.
+
+De Morganovi zakoni za konjunkciju i disjunkciju: 
+
+$\lnot (p \land q) \leftrightarrow (\lnot p \lor \lnot q)$ i $\lnot (p \lor q) \leftrightarrow (\lnot p \land \lnot q)$
+
 Kvantori:
-1◦ Univerzalni kvantor je ∀ – ˇcita se: svaki, bilo koji, proizvoljan. (Na primer:
-(∀x)t, ˇcita se: ”Za svaki x vredi t”).
-2◦ Egzistencijalni kvantor je ∃ – ˇcita se: postoji, neki, ima bar jedan. (Na
-primer: (∃x)t, znaˇci: ”Za neki x vredi t”).
-3◦ Koristimo i kvantor ∃1 – ˇcita se: postoji taˇcno jedan, ili postoji jedan i samo
-jedan.
-Negacije kvantora su: ¬(∀x)A ⇔ (∃x)¬A i ¬(∃x)A ⇔ (∀x)¬A.
+
+1. Univerzalni kvantor je $\forall$ – čita se: svaki, bilo koji, proizvoljan. (Na primer: $(\forall x)t$, čita se: Za svaki x vredi t).
+
+2. Egzistencijalni kvantor je $\exists$ – čita se: postoji, neki, ima bar jedan. (Na primer: $(\exists x)t$, znači: Za neki x vredi t).
+
+3. Koristimo i kvantor $\exists_1$ – čita se: postoji tačno jedan, ili postoji jedan i samo jedan.
+
+Negacije kvantora su: $\lnot(\forall x) A ⇔ (\exists x) \lnot A$ i $\lnot(\exists x) A ⇔ (\forall x) \lnot A$.
+
 Elementi iskazne algebre
-U reˇsavanju logiˇckih zadataka koristi se i izvesna analogija disjunkcije sa
-sabiranjem brojeva i analogija konjunkcije sa mnoˇzenjem brojeva, kao i distributivnost
-konjunkcije prema disjunkciji (analogno distributivnosti mnoˇzenja u odnosu
+
+U rešavanju logičkih zadataka koristi se i izvesna analogija disjunkcije sa sabiranjem brojeva i analogija konjunkcije sa množenjem brojeva, kao i distributivnost konjunkcije prema disjunkciji (analogno distributivnosti množenja u odnosu
 na sabiranje brojeva). U iskaznoj algebri (Bulovoj algebri iskaza) koristimo tablice:
+
 disjunkcija
-A B A + B
-1 1 1
-1 0 1
-0 1 1
-0 0 0
+
+| $A$ | $B$ | $A+B$ |
+| :-: | :-: | :-: |
+| 1 | 1 | 1 |
+| 1 | 0 | 1 |
+| 0 | 1 | 1 |
+| 0 | 0 | 0 |
+
 konjunkcija
-A B A · B
-1 1 1
-1 0 0
-0 1 0
-0 0 0
+
+| $A$ | $B$ | $A \cdot B$ |
+| :-: | :-: | :-: |
+| 1 | 1 | 1 |
+| 1 | 0 | 0 |
+| 0 | 1 | 0 |
+| 0 | 0 | 0 |
+
 negacija
-A A
-1 0
-0 1
-Za disjunkciju koristimo znak +, za konjukciju znak · i za negaciju nadvuˇcenu
-crtu. Za istinitosnu vrednost iskaza ”taˇcan” oznaka je 1, a za ”netaˇcan” oznaka
-je 0. Tablica konjunkcije potpuno je identiˇcna obiˇcnoj tablici mnoˇzenja, a tablica
-disjunkcije razlikuje se od obiˇcne tablice sabiranja samo u sluˇcaju: 1 + 1 = 1. (Kod
-obiˇcnog sabiranja je 1 + 1 = 2)
+
+
+
+| $A$ | $\overline{A}$ |
+| :-: | :-: |
+| 1 | 0 |
+| 0 | 1 |
+
+
+Za disjunkciju koristimo znak $+$, za konjukciju znak $\cdot$ i za negaciju nadvučenu crtu. Za istinitosnu vrednost iskaza tačan oznaka je 1, a za netačan oznaka je 0. Tablica konjunkcije potpuno je identična običnoj tablici množenja, a tablica disjunkcije razlikuje se od obične tablice sabiranja samo u slučaju: 1 + 1 = 1. (Kod
+običnog sabiranja je 1 + 1 = 2)
