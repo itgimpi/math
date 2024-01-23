@@ -11,3 +11,13 @@
 4. Znakovi: $=$, $<$, $>$, $\le$, $\ge$, ... su **relacije**.
 
 5. Znakovi: $\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**.
+
+6. **izrazi** $\rightarrow$ $\leftrightarrow$
+
+7. **formula**
+
+8. $\top$ $\bot$ **iskaz**
+
+9. **iskazna formula**
+
+10. $\exists$ $\forall$ **kvantifikator**
