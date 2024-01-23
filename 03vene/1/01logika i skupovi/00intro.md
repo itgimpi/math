@@ -10,4 +10,4 @@
 
 4. Znakovi: $=$, $<$, $>$, $\le$, $\ge$, ... su **relacije**.
 
-5. Znakovi: $=$, $<$, $>$, $\or$, $\and$, ... su **relacije**.
+5. Znakovi: $\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**.
