@@ -1,42 +1,63 @@
 # 1. LOGIKA
 
-Iskaz je rečenica koja može biti samo tačna ili samo netačna.
+*Iskaz* je rečenica koja može biti samo *tačna* ili samo *netačna*.
 
-Logičke konstante su $\top$ i $\top$ (te i nete) - tačno i netačno.
+*Logičke konstante* su $\top$ i $\top$ (te i nete) - tačno i netačno.
 
-Istinitosna vrednost iskaza p označava se sa $\tau(p)$. Mogu´ce je τ(p) =  ili
-τ(p) = ⊥.
-Negacija iskaza p je iskaz koji je taˇcan ako i samo ako1) je netaˇcan iskaz p.
-Koristimo oznaku ¬p ili p. (ˇCitamo: nije p).
-Konjunkcija iskaza p i q je iskaz koji je taˇcan ako i samo ako su taˇcna oba
-iskaza p i q. Oznaka je p ∧ q. (ˇCitamo: p i q.).
-Disjunkcija iskaza p i q je iskaz koji je netaˇcan ako i samo ako su netaˇcna oba
-iskaza p i q. Oznaka je p ∨ q. (ˇCitamo: p ili q).
-Implikacija iskaza p i q je iskaz koji je netaˇcan ako i samo ako je iskaz p taˇcan,
-a iskaz q netaˇcan. Oznaka je p ⇒ q. (Ako p, onda q).
-Ekvivalencija iskaza p i q je iskaz koji je taˇcan ako i samo ako p i q imaju
-jednake istinitosne vrednosti. Oznaka je p ⇔ q. (p ekvivalentno sa q).
-Ovo su osnovne logiˇcke operacije i njima odgovaraju slede´ce istinitosne tablice
+*Istinitosna vrednost* iskaza p označava se sa $\tau(p)$. Moguće je $\tau(p) = \top$ ili
+$\tau(p) = \bot$.
+
+*Negacija iskaza* p je iskaz koji je tačan ako i samo ako (akko) je netačan iskaz p. Koristimo oznaku $\lnot p$ ili $\overline{p}$. (Čitamo: nije p).
+
+*Konjunkcija* iskaza p i q je iskaz koji je tačan akko su tačna oba iskaza p i q. Oznaka je $p \land q$. (Čitamo: p i q.).
+
+*Disjunkcija* iskaza p i q je iskaz koji je netačan akko su netačna oba iskaza p i q. Oznaka je $p \lor q$. (Čitamo: p ili q).
+
+*Implikacija* iskaza p i q je iskaz koji je netačan akko je iskaz p tačan, a iskaz q netačan. Oznaka je $p \implies q$ ili $p \rightarrow q$. (Ako p, onda q).
+
+*Ekvivalencija* iskaza p i q je iskaz koji je tačan ako i samo ako p i q imaju jednake istinitosne vrednosti. Oznaka je $p \iff q$ ili $p \leftrightarrow q$. (p ekvivalentno sa q).
+
+$\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**. $\rightarrow$ $\leftrightarrow$
+
+Ovo su osnovne logičke operacije i njima odgovaraju sledeće istinitosne tablice
+
 negacija
-p ¬p
- ⊥
-⊥ 
+
+| $p$ |$\lnot p$ |
+| :-: | :-: |
+| $\top$ | $\bot$ |
+| $\bot$ | $\top$ |
+
 konjunkcija
-∧  ⊥
-  ⊥
-⊥ ⊥ ⊥
+
+| $\land$ | $\top$ | $\bot$ |
+| :-: | :-: | :-: |
+| $\top$ | $\top$ | $\bot$ |
+| $\bot$ | $\bot$ | $\bot$ |
+
 disjunkcija
-∨  ⊥
-  
-⊥  ⊥
+
+| $\lor$ | $\top$ | $\bot$ |
+| :-: | :-: | :-: |
+| $\top$ | $\top$ | $\top$ |
+| $\bot$ | $\top$ | $\bot$ |
+
 implikacija
-⇒  ⊥
-  ⊥
-⊥  
+
+| $\rightarrow$ | $\top$ | $\bot$ |
+| :-: | :-: | :-: |
+| $\top$ | $\top$ | $\bot$ |
+| $\bot$ | $\top$ | $\top$ |
+
 ekvivalencija
-⇔  ⊥
-  ⊥
-⊥ ⊥ 
+
+| $\rightarrow$ | $\top$ | $\bot$ |
+| :-: | :-: | :-: |
+| $\top$ | $\top$ | $\bot$ |
+| $\bot$ | $\bot$ | $\top$ |
+
+
+
 Potreban i dovoljan uslov.
 1) Iskazu p ⇒ q odgovaraju slede´ce reˇcenice:
 • p povlaˇci q
