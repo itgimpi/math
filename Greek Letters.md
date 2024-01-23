@@ -1,38 +1,50 @@
 Greek Letters
 
 
-$\alpha A$	νN
+$\alpha A$
+
+$\beta B$
+
+$\gamma \Gamma$	
+
+$\delta \Delta$
+
+$\epsilon \varepsilon E$
+
+$\zeta Z \sigma \,\!$
+
+$\eta H$
+
+$\theta \vartheta \Theta$
+
+$\iota I$
+
+$\kappa K$
+
+$\lambda \Lambda$
+
+$\mu M$
+
 $\nu N$
 
-$\beta B$	ξΞ
 $\xi\Xi$
 
-$\gamma \Gamma$	oO
-$o O$ (omicron)
+$o O$
 
-$\delta \Delta$	πΠ
 $\pi \Pi$
 
-$\epsilon \varepsilon E$	ρϱP
 $\rho\varrho P$
-ζZ
-$\zeta Z \sigma \,\!$	Σ
+
 $\sigma \Sigma$
 
-$\eta H$	τT
 $\tau T$
 
-$\theta \vartheta \Theta$	υΥ
 $\upsilon \Upsilon$
 
-$\iota I$	ϕφΦ
 $\phi \varphi \Phi$
 
-$\kappa K$	χX
 $\chi X$
 
-$\lambda \Lambda$	ψΨ
 $\psi \Psi$
 
-$\mu M$	ωΩ
 $\omega \Omega$
