@@ -10,9 +10,9 @@
 
 4. Znakovi: $=$, $<$, $>$, $\le$, $\ge$, ... su **relacije**.
 
-5. Znakovi: $\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**.
+5. Znakovi: $\lor$, $\land$, $\lnot$, $\implies$, $\iff$, $\oplus$, ... su **logički operatori**. $\rightarrow$ $\leftrightarrow$
 
-6. **izrazi** $\rightarrow$ $\leftrightarrow$
+6. $2x$, $5m+3$, **izrazi** 
 
 7. **formula**
 
