@@ -1,4 +1,6 @@
+```
 Mathematical Notation
+```
 
 $x = y$  ```$x = y$```
  
@@ -28,15 +30,15 @@ $\frac{\partial f}{\partial x}$ ```$\frac{\partial f}{\partial x}$```
 
 $\displaystyle \frac{\partial f}{\partial x}$ ```$\displaystyle \frac{\partial f}{\partial x}$```
 
-$\binom{n}{k}$, ```$\binom{n}{k}$```
+$\binom{n}{k}$ ```$\binom{n}{k}$```
 
-$x_{1} + x_{2} + \cdots + x_{n}$, \$x_{1} + x_{2} + \cdots + x_{n}\$
+$x_{1} + x_{2} + \cdots + x_{n}$ ```$x_{1} + x_{2} + \cdots + x_{n}\$```
 
-$x_{1}, x_{2}, \dots, x_{n}$, \$x_{1}, x_{2}, \dots, x_{n}\$
+$x_{1}, x_{2}, \dots, x_{n}$ ```$x_{1}, x_{2}, \dots, x_{n}\$```
 
-$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$, \$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle\$
+$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$ ```$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle\$```
 
-$|A|$, \$|A|\$
+$|A|$ ```$|A|\$```
 
 $x \in A$ ```$x \in A$```
 
@@ -48,32 +50,38 @@ $A \cup B$ ```$A \cup B$```
 
 $A \cap B$ ```$A \cap B$```
 
-$X \sim {\sf Binom}(n, \pi)$, \$X \sim {\sf Binom}(n, \pi)\$
+$X \sim {\sf Binom}(n, \pi)$ ```$X \sim {\sf Binom}(n, \pi)\$```
 
-$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)$, \$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)\$
+$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)$ ```$\mathrm{P}(X \le x) = {\tt pbinom}(x, n, \pi)\$```
 
-$P(A \mid B)$, \$P(A \mid B)\$
+$P(A \mid B)$ ```$P(A \mid B)\$```
 
-$\mathrm{P}(A \mid B)$, \$\mathrm{P}(A \mid B)\$
+$\mathrm{P}(A \mid B)$ ```$\mathrm{P}(A \mid B)\$```
 
-$\{1, 2, 3\}$, \$\{1, 2, 3\}\$
+$\{1, 2, 3\}$ ```$\{1, 2, 3\}\$```
 
-$\sin(x)$, \$\sin(x)\$
+$\sin(x)$, ```$\sin(x)\$```
 
-$\log(x)$, \$\log(x)\$
+$\log(x)$, ```$\log(x)\$```
 
 $\int_{a}^{b}$ ```$\int_{a}^{b}$```
 
-$\left(\int_{a}^{b} f(x) \; dx\right)$
+$\int_{a}^{b} f(x) \; dx$ ```$\int_{a}^{b} f(x) \; dx$```
 
-$\left[\int_{\-infty}^{\infty} f(x) \; dx\right]$
+$\displaystyle \int_{a}^{b} f(x) \; dx$ ```$\displaystyle \int_{a}^{b} f(x) \; dx$```
 
-$\left| F(x) \right|_{a}^{b}$
+$\int_{-\infty}^{\infty} f(x) \; dx$ ```$\int_{-\infty}^{\infty} f(x) \; dx$```
 
-$\sum_{x = a}^{b} f(x)$
+$F(x) |_{a} ^ {b}$ ```$F(x) |_{a} ^ {b}$```
 
-$\prod_{x = a}^{b} f(x)$
+$\sum_{x = a}^{b} f(x)$ ```$\sum_{x = a}^{b} f(x)$```
 
-$\lim_{x \to \infty} f(x)$
+$\displaystyle \sum_{x = a}^{b} f(x)$ ```$\displaystyle \sum_{x = a}^{b} f(x)$```
 
-$\displaystyle \lim_{x \to \infty} f(x)$
+$\prod_{x = a}^{b} f(x)$ ```$\prod_{x = a}^{b} f(x)$```
+
+$\displaystyle \prod_{x = a}^{b} f(x)$ ```$\displaystyle \prod_{x = a}^{b} f(x)$```
+
+$\lim_{x \to \infty} f(x)$ ```$\lim_{x \to \infty} f(x)$```
+
+$\displaystyle \lim_{x \to \infty} f(x)$ ```$\displaystyle \lim_{x \to \infty} f(x)$```
