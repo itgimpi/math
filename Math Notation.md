@@ -1,36 +1,34 @@
 Mathematical Notation
 
-```
-$x = y$
-```
-
-$x = y$,  \$x = y\$
+$x = y$  ```$x = y$```
  
-$x \neq y$, \$x \neq y\$
+$x \neq y$ ```$x \neq y$```
 
-$x < y$, $x > y $
+$x < y, x > y$ ```$x < y$, $x > y$```
 
-$x \le y$, \$x \le y\$
+$x \le y$  ```$x \le y$```
 
-$x \ge y$, \$x \ge y\$
+$x \ge y$  ```$x \ge y$```
 
-$x^{n}$, \$x^{n}\$
+$x^{n}$ ```$x^{n}$```
 
-$x_{n}$, \$x_{n}\$
+$x_{n}$, ```$x_{n}$```
 
-$\overline{x}$, \$\overline{x}\$
+$\overline{x}$ ```$\overline{x}$```
 
-$\hat{x}$, \$\hat{x}\$, 
+$\hat{x}$ ```$\hat{x}$``` 
 
-$\tilde{x}$, \$\tilde{x}\$
+$\tilde{x}$ ```$\tilde{x}$```
 
-$\frac{a}{b}$, \$\frac{a}{b}\$
+$\frac{a}{b}$ ```$\frac{a}{b}$```
 
-$\frac{\partial f}{\partial x}$, \$\frac{\partial f}{\partial x}\$
+$\displaystyle \frac{a}{b}$ ```$\displaystyle \frac{a}{b}$```
 
-$\displaystyle \frac{\partial f}{\partial x}$, \$\displaystyle \frac{\partial f}{\partial x}\$
+$\frac{\partial f}{\partial x}$ ```$\frac{\partial f}{\partial x}$```
 
-$\binom{n}{k}$, \$\binom{n}{k}\$
+$\displaystyle \frac{\partial f}{\partial x}$ ```$\displaystyle \frac{\partial f}{\partial x}$```
+
+$\binom{n}{k}$, ```$\binom{n}{k}$```
 
 $x_{1} + x_{2} + \cdots + x_{n}$, \$x_{1} + x_{2} + \cdots + x_{n}\$
 
@@ -40,15 +38,15 @@ $\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$, \$\mathbf{x} = \langle
 
 $|A|$, \$|A|\$
 
-$x \in A$, \$x \in A\$
+$x \in A$ ```$x \in A$```
 
-$x \subset B$, \$x \subset B\$
+$x \subset B$ ```$x \subset B$```
 
-$x \subseteq B$, \$x \subseteq B\$
+$x \subseteq B$ ```$x \subseteq B$```
 
-$A \cup B$, \$A \cup B\$
+$A \cup B$ ```$A \cup B$```
 
-$A \cap B$, \$A \cap B\$
+$A \cap B$ ```$A \cap B$```
 
 $X \sim {\sf Binom}(n, \pi)$, \$X \sim {\sf Binom}(n, \pi)\$
 
@@ -64,7 +62,7 @@ $\sin(x)$, \$\sin(x)\$
 
 $\log(x)$, \$\log(x)\$
 
-$\int_{a}^{b}$, \$\int_{a}^{b}\$
+$\int_{a}^{b}$ ```$\int_{a}^{b}$```
 
 $\left(\int_{a}^{b} f(x) \; dx\right)$
 
