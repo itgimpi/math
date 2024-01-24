@@ -1,4 +1,4 @@
-# 1. Koje rečenice su iskazi?
+### 1. Koje rečenice su iskazi?
 
 a) $1 + 1 = 2$;
 
@@ -16,6 +16,6 @@ g) $a^2 > 0$, ako je a negativan broj;
 
 h) $-a^2 < 0$, ako je a negativan broj;
 
-# Rešenje
+### Rešenje
 
 Za svaku rečenicu može da se utvrdi da li je tačna ili netačna, tako da, sve rečenice su iskazi.
