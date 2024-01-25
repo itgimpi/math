@@ -44,11 +44,11 @@ $x \in A$ ```$x \in A$```
 
 $x \subset B$ ```$x \subset B$```
 
-$x \supset B$ ```$x \supset B$```
+$B \supset x$ ```$B \supset x$```
 
 $x \subseteq B$ ```$x \subseteq B$```
 
-$x \supseteq B$ ```$x \supseteq B$```
+$B \supseteq x$ ```$supseteq x$```
 
 $A \cup B$ ```$A \cup B$```
 
