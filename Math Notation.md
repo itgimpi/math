@@ -44,7 +44,11 @@ $x \in A$ ```$x \in A$```
 
 $x \subset B$ ```$x \subset B$```
 
+$x \supset B$ ```$x \supset B$```
+
 $x \subseteq B$ ```$x \subseteq B$```
+
+$x \supseteq B$ ```$x \supseteq B$```
 
 $A \cup B$ ```$A \cup B$```
 
@@ -85,3 +89,18 @@ $\displaystyle \prod_{x = a}^{b} f(x)$ ```$\displaystyle \prod_{x = a}^{b} f(x)$
 $\lim_{x \to \infty} f(x)$ ```$\lim_{x \to \infty} f(x)$```
 
 $\displaystyle \lim_{x \to \infty} f(x)$ ```$\displaystyle \lim_{x \to \infty} f(x)$```
+
+$C_{k}^{n}$
+
+${n \choose k}$ ```${n \choose k}$```
+
+$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
+
+$$X = \begin{bmatrix}1 & x_{1}\\
+1 & x_{2}\\
+1 & x_{3}
+\end{bmatrix}$$
+
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$
