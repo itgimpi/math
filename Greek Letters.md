@@ -49,3 +49,7 @@ $\chi X$ ```$\rho\varrho P$```
 $\psi \Psi$ ```$\rho\varrho P$```
 
 $\omega \Omega$ ```$\rho\varrho P$```
+
+✅️ **Check**, 💡 **Idea**, 📝 **Note**, 
+⚠️ **Warning**, ❗️**Important**, 📌 **Important**,
+🚨 **Warning**, ⛔️ **Error**, ❌ **Error**
