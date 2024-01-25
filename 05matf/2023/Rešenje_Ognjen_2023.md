@@ -1,6 +1,6 @@
-## Zadaci
+### Zadaci
 
-1. Broj $\frac{\sqrt{6}}{\sqrt{3} - \sqrt{6} - \sqrt{24} - \sqrt{48} + \sqrt{108}}$ jednak je:
+1. Broj $\displaystyle \frac{\sqrt{6}}{\sqrt{3} - \sqrt{6} - \sqrt{24} - \sqrt{48} + \sqrt{108}}$ jednak je:
 
 a) $- \frac{2-\sqrt{2}}{3}$;
 b) $- \frac{2+\sqrt{2}}{3}$;
@@ -12,7 +12,7 @@ n) ne znam.
 
 
 
-## Rešenja
+### Rešenja
 
 1. $\frac{\sqrt{6}}{\sqrt{3} - \sqrt{6} - \sqrt{24} - \sqrt{48} + \sqrt{108}}$  = 
 
