@@ -4,18 +4,12 @@
 
 Svako preslikavanje skupa $\{a1, a2,  \dots , an\}$ na sebe samog je permutacija tog skupa.
 
-Skup od n elemenata ima $1\cdot2\dots n = n!$ permutacija (ˇcita se ”en faktorijel”).
+Skup od n elemenata ima $1\cdot2\dots n = n!$ permutacija (čita se en faktorijel).
 
-Ako med-u elementima a1, a2, . . . , an ima α jednakih med-u sobom, α ∈ N,
-onda imamo permutacije s ponavljanjem. Njih ima
-n!
-α!
-.
-Ako od n elemenata ima viˇse grupa jednakih, α1, α2, . . ., αk, (α1 + α2 + · · · +
-αk ≤ n) broj permutacija je
-n!
-α1! · α2! . . . αk!
-.
+Ako među elementima $a_1, a_2, \dots, a_n$ ima $\alpha$ jednakih med-u sobom, $\alpha \in N$, onda imamo permutacije s ponavljanjem. Njih ima $\displaystyle \frac{n!}{\alpha!}$.
+
+Ako od n elemenata ima više grupa jednakih, $α_1, α_2,\dots, α_k, (α_1 + α_2 + \dots + α_k \le n)$ broj permutacija je   $\displaystyle \frac{n!}{\alpha_1! \cdot \alpha_2! \cdots  \alpha_k!}$.
+
 Svaki neprazan podskup skupa {a1, a2, . . .am} je kombinacija elemenata ovog
 skupa.
 Kombinacije skupa {a1, a2, . . . , an} koje se sastoje od k elemenata, k ≤ n,
