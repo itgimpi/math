@@ -38,6 +38,10 @@ $x_{1}, x_{2}, \dots, x_{n}$ ```$x_{1}, x_{2}, \dots, x_{n}\$```
 
 $\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle$ ```$\mathbf{x} = \langle x_{1}, x_{2}, \dots, x_{n}\rangle\$```
 
+$\emptyset$ ```$\emptyset$```
+
+$\varnothing$ ```$\varnothing$```
+
 $|A|$ ```$|A|\$```
 
 $x \in A$ ```$x \in A$```
