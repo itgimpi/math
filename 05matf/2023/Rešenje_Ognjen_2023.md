@@ -54,7 +54,9 @@ $\displaystyle 25x = 100\% $
 
 $\displaystyle x = 4\% $
 
-Aca je dobio $ \displaystyle  11 \cdot 4\% = 44\%   $  čokolade.
+Aca je dobio 
+$11 \cdot 4\% = 44\%  $ 
+ čokolade.
 
 
 
