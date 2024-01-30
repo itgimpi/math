@@ -1,13 +1,13 @@
 ### Oznake brojnih skupova
 
-$N$ - skup prirodnih brojeva ($N_0 = N ∪ \{0\}$),
+$\mathbb{N}$ - skup prirodnih brojeva ($\mathbb{N}_0 = \mathbb{N} ∪ \{0\}$),
 
-$Z$ - skup celih brojeva,
+$\mathbb{Z}$ - skup celih brojeva,
 
-$Q$ - skup racionalnih brojeva,
+$\mathbb{Q}$ - skup racionalnih brojeva,
 
-$I$ - skup iracionalnih brojeva,
+$\mathbb{I}$ - skup iracionalnih brojeva,
 
-$R$ - skup realnih brojeva ($R^+$ - skup pozitivnih realnih brojeva, $R_0^+ = R^+ ∪ {0}$),
+$\mathbb{R}$ - skup realnih brojeva ($\mathbb{R}^+$ - skup pozitivnih realnih brojeva, $\mathbb{R}_0^+ = \mathbb{R}^+ ∪ {0}$),
 
-$C$ - skup kompleksnih brojeva.
+$\mathbb{C}$ - skup kompleksnih brojeva.
