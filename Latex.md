@@ -23,10 +23,10 @@ Markdown doesn't support underline, but we can use <u>HTML Text</u> instead. Als
 
 For manual line or page breaks, we can use following HTML and CSS codes:
 
-Line breaks: `<br />`, Print breaks:
+Line breaks: `<br>`, Print breaks:
 `<p style="page-break-after:always;"></p>`
 
-Lists
+## Lists
 
 - Item 1
 - Item 2
@@ -41,11 +41,11 @@ Lists
     - Item 3a
     - Item 3b
 
-Links
+## Links
 
 [Github](http://www.github.com/)
 
-Images
+## Images
 
 <p align="center">
 ![logo](https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN-199x250.png "Raspberry pi")
@@ -56,20 +56,20 @@ Note that here we used an HTML code to align center the image. Also, we can use 
 <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN-199x250.png" alt="Raspberry pi" style="width:20%; border:0;">
 </p>
 
-Quotes
+## Quotes
 
 > Imagination is more important than knowledge.
 >
 > Albert Einstein
 
-Hlines
+## Hlines
 
 Use three dashes `---` to draw an horizontal line like:
 
 ---
 
 
-# Tables
+## Tables
 
 1st Header|2nd Header|3rd Header
 ---|:---:|---: 
@@ -85,7 +85,7 @@ Note that we can use HTML styles to hide tables’ overflow by putting them in a
 
 Also, we can use overflow-x: scroll to always scroll or overflow-x: hidden to hide them compeletely.
 
-Code blocks
+## Code blocks
 
 In Markdown, we can simply add plain code blocks to display (not evaluating) by inserting triple back quote i.e. ```. For example:
 
@@ -105,10 +105,11 @@ norm(1:4)
 
 For inline plain codes use single back quote before and after the code, for example we defined this codes here in this way.
 
-YAML header
+## YAML header
 
 At the top of a Markdown document, we can insert the following meta data such that:
 
+```
 ---
 title: "Page Title"
 subtitle: "Page sub-title"
@@ -124,21 +125,22 @@ tags:
   - tag1
   - tag2
 ---
+```
 
-Mathematical formula
+## Mathematical formula
 We can use LaTeX to write mathematical equations in Markdown. To write inline LaTeX formula use a single \$ before and after the equation and use a double \$ to display equations.
 
-LaTeX
+## LaTeX
 
 The following provides a quick reference of the most commonly used LaTeX syntax. You may find a more extensive references about mathematical formulas at LaTeX Wikibooks.
 
-LaTeX equations
+## LaTeX equations
 
 Inline equation: $equation$
 
 Display equation: $$equation$$
 
-Operators
+## Operators
 
 - $x + y$
 - $x - y$
@@ -147,7 +149,7 @@ Operators
 - $\dfrac{x}{y}$
 - $\sqrt{x}$
 
-Symbols
+## Symbols
 
 - $\pi \approx 3.14159$
 - $\pm \, 0.2$
@@ -188,7 +190,7 @@ Symbols
 - $\{ \}$
 - $\_$
 
-Space
+## Space
 
 Horizontal space: \quad
 Large horizontal space: \qquad
@@ -197,7 +199,7 @@ Medium space: \:
 Large space: \;
 Negative space: \!
 
-Greek alphabets
+## Greek alphabets
 Small Letter	Capital Letter	Alternative
  $\alpha	
  A	
@@ -255,7 +257,7 @@ Small Letter	Capital Letter	Alternative
  \omega	
  \Omega$
 
- Equations
+ ## Equations
 
  $$\mathbb{N} = \{ a \in \mathbb{Z} : a > 0 \}$$
 
@@ -263,41 +265,31 @@ Small Letter	Capital Letter	Alternative
 
 $$\color{blue}{X \sim Normal \; (\mu,\sigma^2)}$$
  
-
 $$P \left( A=2 \, \middle| \, \dfrac{A^2}{B}>4 \right)$$
  
-
 $$f(x) = x^2 - x^\frac{1}{\pi}$$
 
 $$f(X,n) = X_n + X_{n-1}$$
 
 $$f(x) = \sqrt[3]{2x} + \sqrt{x-2}$$
  
- 
-
 $$\mathrm{e} = \sum_{n=0}^{\infty} \dfrac{1}{n!}$$
  
-
 $$\prod_{i=1}^{n} x_i - 1$$
  
- 
-
 $$\lim_{x \to 0^+} \dfrac{1}{x} = \infty$$
 
 $$\int_a^b y \: \mathrm{d}x$$
 
 $$\log_a b = 1$$
  
-
 $$\max(S) = \max_{i:S_i \in S} S_i$$
  
-
 $$\dfrac{n!}{k!(n-k)!} = \binom{n}{k}$$
  
-
 $$\text{$\dfrac{b}{a+b}=3, \:$ therefore we can set $\: a=6$}$$
 
-Functions
+## Functions
 
 $$
 f(x)=
@@ -307,7 +299,7 @@ f(x)=
 \end{cases}
 $$
 
-Matrices
+## Matrices
 
 $$
 \begin{matrix}
@@ -317,13 +309,6 @@ $$
 \end{matrix}
 $$
  
- 
- 
- 
- 
- 
- 
-
 $$
 M = 
 \begin{bmatrix}
@@ -333,8 +318,6 @@ M =
 \end{bmatrix}
 $$
   
- 
-
 $$ 
 M =
 \begin{bmatrix}
@@ -347,8 +330,6 @@ M =
 \end{bmatrix}
 $$
   
- 
-
 $$ 
 M =
 \begin{pmatrix}
@@ -361,7 +342,6 @@ M =
 \end{pmatrix}
 $$
  
-
 $$
 A_{m,n} = 
 \begin{pmatrix}
@@ -372,7 +352,7 @@ a_{m,1} & a_{m,2} & \cdots & a_{m,n}
 \end{pmatrix}
 $$
 
-Font sizes
+## Font sizes
 
 $\Huge Hello!$
 $\huge Hello!$
