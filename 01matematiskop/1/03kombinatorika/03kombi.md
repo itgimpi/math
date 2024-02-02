@@ -10,40 +10,14 @@ Ako među elementima $a_1, a_2, \dots, a_n$ ima $\alpha$ jednakih med-u sobom, $
 
 Ako od n elemenata ima više grupa jednakih, $α_1, α_2,\dots, α_k, (α_1 + α_2 + \dots + α_k \le n)$ broj permutacija je   $\displaystyle \frac{n!}{\alpha_1! \cdot \alpha_2! \cdots  \alpha_k!}$.
 
-Svaki neprazan podskup skupa {a1, a2, . . .am} je kombinacija elemenata ovog
-skupa.
-Kombinacije skupa {a1, a2, . . . , an} koje se sastoje od k elemenata, k ≤ n,
-nazivaju se kombinacijama k-te klase od n elemenata. Njih ima
-n
-k
-
-, ˇcita se: ”en
-nad ka”, a to iznosi: Ck
-n =
-n
-k
-
-=
-n(n − 1) · · · (n − k + 1)
-1 · 2 · · · k
-=
-n!
-k! · (n − k)!
-.
-Izraz
-n
-k
-
-je tzv. binomni koeficijent i vaˇzi jednakost
-n
-k
-
-=
-
-n
-n − k
-
-.
+Svaki neprazan podskup skupa $\{a_1, a_2, \dots a_m\}$ je kombinacija elemenata ovog skupa.
+
+Kombinacije skupa $\{a_1, a_2, \dots a_n\}$ koje se sastoje od $k$ elemenata, $k \le n$,
+nazivaju se kombinacijama k-te klase od n elemenata. Njih ima , ˇcita se: ”en
+nad ka”, a to iznosi: Ck n(n − 1) · · · (n − k + 1) 1 · 2 · · · k = n! k! · (n − k)!.
+
+Izraz.
+
 Permutovanjem kombinacija dobijamo varijacije bez ponavljanja. Njih ima
 Vn =
 n
