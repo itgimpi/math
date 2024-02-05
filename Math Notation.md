@@ -108,25 +108,3 @@ $$X = \begin{bmatrix}1 & x_{1}\\
 $$\begin{vmatrix}a & b\\
 c & d
 \end{vmatrix}=ad-bc$$
-
-$\left\lbrace \begin{array}{l}
-\mathrm{Line}\;1\;\mathrm{here}\\
-\mathrm{Line}\;2\;\mathrm{here}\\
-\mathrm{Line}\;3\;\mathrm{here}
-\end{array}\right.$
-
-LATEX markup	Renders as
-
-$\bigl( \Bigl( \biggl( \Biggl($	
-
-${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$
-
-$\bigr] \Bigr] \biggr] \Biggr]$	
-
-${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$
-
-$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$
-
-${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$	
-
-
