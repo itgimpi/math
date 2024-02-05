@@ -10,16 +10,16 @@
 ## 3. Vene 1, 2, 3, 4 zbirke
 ...
 
-## 4. ETF prijemni
+## 4. ETF prijemni, od 2020 do 2023
 ...
 
-## 5. MF prijemni
+## 5. MF prijemni, od 2020 do 2023
 ...
 
-## 6. FON prijemni
+## 6. FON prijemni, od 2020 do 2023
 ...
 
-## 7. FTN prijemni
+## 7. FTN prijemni, od 2020 do 2023
 ...
 
 ## 8. ELEF zbirka

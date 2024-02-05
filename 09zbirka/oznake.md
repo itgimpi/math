@@ -1,10 +1,10 @@
 ## Ознаке
 
-$*$
+$* \qquad \qquad \qquad $  Тежи или нестандардни задаци
 
-$!$
+$!\qquad\qquad \qquad $  Задатак у којем може лако да се погреши
 
-□
+□ Крај доказа
 
 L
 
@@ -12,35 +12,36 @@ E
 
 Решење 8(13)
 
-N
+$\mathbb{N}\qquad\qquad \qquad $    Скуп природних бројева.
 
-Q
+$\mathbb{Q}\qquad\qquad \qquad $    Скуп рационалних бројева.
 
-Z
+$\mathbb{Z}\qquad\qquad \qquad $ Скуп целих бројева.
 
-R
+$\mathbb{R}\qquad\qquad \qquad $  Скуп реалних бројева.
 
-C
+$\mathbb{C}\qquad\qquad \qquad $  Скуп комплексних бројева.
 
-empty set
+$\varnothing\qquad\qquad \qquad $  Празан скуп.
 
-(a,b)
+$(a,b)\qquad\qquad \qquad $  Интервал (отворен), скуп $\{x \in \mathbb{R} : a < x < b \}.$
 
-[a,b]
+$[a,b]\qquad\qquad \qquad $  Сегмент (затворен), скуп $\{x \in \mathbb{R} : a \le x \le b \}$, где је $0<b-a<+ \infty.$
 
-[a,b)
+$[a,b)\qquad \qquad \qquad $ Полузатворен (полуотворен) интервал, скуп $\{x \in \mathbb{R} : a \le x < b \}.$
 
-(a,b]
+$(a,b]\qquad \qquad \qquad $ Полузатворен (полуотворен) интервал, скуп $\{x \in \mathbb{R} : a < x \le b \}.$
 
 x -> f(x)
 
-$ \pi (A,B,C)$
+$ \pi (A,B,C)\qquad \qquad \qquad $ Раван одређена тачкама $A,B,C$
 
-sigma
+$\displaystyle \sum_{k = 1}^{n} a_k  = a_1+a_2+\dots+a_n$
 
-P(A,B,C)
+$P(A,B,C), \ P(A,B,C,D)$
 
-Za trougao...
+За троугао на слици кажемо да је са стандардним ознакама
+![ABC](trougao.jpg "ABC")
 
 R
 
@@ -50,40 +51,4 @@ ha
 
 (an)
 
-${
-    "is_printed": true,
-    "is_handwritten": false,
-    "auto_rotate_confidence": 0.007725002452811935,
-    "auto_rotate_degrees": 0,
-    "error": "Content not found",
-    "error_info": {
-        "id": "image_no_content",
-        "message": "Content not found"
-    },
-    "line_data": [
-        {
-            "type": "diagram",
-            "cnt": [
-                [
-                    339,
-                    343
-                ],
-                [
-                    31,
-                    343
-                ],
-                [
-                    31,
-                    1
-                ],
-                [
-                    339,
-                    1
-                ]
-            ],
-            "included": false,
-            "subtype": "triangle",
-            "error_id": "image_not_supported"
-        }
-    ]
-}$
+
