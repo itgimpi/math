@@ -1,25 +1,28 @@
 # Math Is Fun 
 ...
 
-## 1. Matematiskop
+## 1. Matematiskop 1, 2, 3, 4 zbirke
 ...
 
-## 2. Krug
+## 2. Krug 1, 2, 3, 4 zbirke
 ...
 
-## 3. Vene
+## 3. Vene 1, 2, 3, 4 zbirke
 ...
 
-## 4. ETF
+## 4. ETF prijemni
 ...
 
-## 5. MF
+## 5. MF prijemni
 ...
 
-## 6. FON
+## 6. FON prijemni
 ...
 
-## 7. FTN
+## 7. FTN prijemni
 ...
 
-## 8. ELEF
+## 8. ELEF zbirka
+...
+
+## 9. Методичка збирка задатака за полагање пријемног испита из математике са решењима и прегледом теорије; за упис на техничке и природно-математичке факултете, 6. издање
