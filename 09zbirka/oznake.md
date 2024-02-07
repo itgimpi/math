@@ -26,7 +26,7 @@ $\varnothing\qquad\qquad \qquad$  Празан скуп.
 
 $(a,b)\qquad\qquad \qquad$  Интервал (отворен), скуп $\{x \in \mathbb{R} : a < x < b \}.$
 
-$[a,b]\qquad\qquad \qquad$  Сегмент (затворен), скуп $\{x \in \mathbb{R} : a \le x \le b \}$, где је $0<b-a<+ \infty.$
+$[a,b]\qquad\qquad \qquad$  Сегмент (затворен), скуп $\{x \in \mathbb{R} : a \le x \le b \}$, где је $0<b-a<+ \infty$.
 
 $[a,b)\qquad \qquad \qquad$ Полузатворен (полуотворен) интервал, скуп $\{x \in \mathbb{R} : a \le x < b \}.$
 
