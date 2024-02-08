@@ -1,4 +1,3 @@
-6 ognjen m
 7 boz n
 8 boz a
 9 jelena
@@ -11,4 +10,4 @@
 23 sava
 24 jelena
 25 
-26 
+26 og m
