@@ -24,9 +24,9 @@ $a^0 = 1, (a \neq 0); a^{-n}=\frac{1}{a^n}, (a \neq 0, n \in \mathbb{N})$ ()
 
 $1.$ uprostiti
 
-$1^{\circ} (\sqrt[3]{a^2} \cdot \sqrt[4]{a^3}):\sqrt[5]{a^4};$
+$1^{\circ} \ (\sqrt[3]{a^2} \cdot \sqrt[4]{a^3}):\sqrt[5]{a^4};$
 
-$2^{\circ} a^{-2/3} (ab)^{1/3} \ (a>0)$
+$2^{\circ} \ a^{-2/3} (ab)^{1/3} \ (a>0)$
 
 Решење.
 
