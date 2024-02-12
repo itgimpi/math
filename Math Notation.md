@@ -14,6 +14,8 @@ $x \ge y$  ```$x \ge y$```
 
 $x^{n}$ ```$x^{n}$``` $x^n$ ```$x^n$```
 
+$\sqrt{x}$ ```$\sqrt{x}$``` $\sqrt[n]{x}$ ```$\sqrt[n]{x}$```
+
 $x_{n}$, ```$x_{n}$```
 
 $\overline{x}$ ```$\overline{x}$```

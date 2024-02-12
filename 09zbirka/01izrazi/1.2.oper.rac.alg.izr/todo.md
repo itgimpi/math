@@ -1,4 +1,3 @@
-27 pera
 28 rasha
 29 miki
 30 niko
