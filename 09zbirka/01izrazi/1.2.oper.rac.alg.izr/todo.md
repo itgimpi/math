@@ -9,6 +9,6 @@
 36 mili
 37 rasa
 38 miki
-39
-40
-41
+39 ogm
+40 and
+41 and
