@@ -2,7 +2,7 @@
 5 vasa
 6 niko
 7 mili
-8
+8 ogs
 9
 10
 11
