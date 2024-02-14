@@ -108,9 +108,21 @@ $$X = \begin{bmatrix}
 1 & x_{3}
 \end{bmatrix}$$
 
+<pre>
+$$X = \begin{bmatrix}
+1 & x_{1}\\
+1 & x_{2}\\
+1 & x_{3}
+\end{bmatrix}$$\</pre>
+
 $$\begin{vmatrix}a & b\\
 c & d
 \end{vmatrix}=ad-bc$$
+
+<pre>
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$</pre>
 
 $\left\lbrace \begin{array}{l}
 \mathrm{Line}\;1\;\mathrm{here}\\
@@ -118,18 +130,25 @@ $\left\lbrace \begin{array}{l}
 \mathrm{Line}\;3\;\mathrm{here}
 \end{array}\right.$
 
+<pre>
+$\left\lbrace \begin{array}{l}
+\mathrm{Line}\;1\;\mathrm{here}\\
+\mathrm{Line}\;2\;\mathrm{here}\\
+\mathrm{Line}\;3\;\mathrm{here}
+\end{array}\right.$</pre>
+
 LATEX markup	Renders as
 
-$\bigl( \Bigl( \biggl( \Biggl($	
+$\bigl( \Bigl( \biggl( \Biggl($	```$\bigl( \Bigl( \biggl( \Biggl($```
 
-${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$
+${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$ ```${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$```
 
-$\bigr] \Bigr] \biggr] \Biggr]$	
+$\bigr] \Bigr] \biggr] \Biggr]$	```$\bigr] \Bigr] \biggr] \Biggr]$```
 
-${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$
+${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$ ```${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$```
 
-$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$
+$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$ ```$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$```
 
-${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$	
+${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$ ```${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$```	 
 
 
