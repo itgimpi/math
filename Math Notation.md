@@ -115,7 +115,8 @@ $$X = \begin{bmatrix}
 1 & x_{3}
 \end{bmatrix}$$</pre>
 
-$$\begin{vmatrix}a & b\\
+$$\begin{vmatrix}
+a & b\\
 c & d
 \end{vmatrix}=ad-bc$$
 
