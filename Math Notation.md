@@ -96,13 +96,14 @@ $\lim_{x \to \infty} f(x)$ ```$\lim_{x \to \infty} f(x)$```
 
 $\displaystyle \lim_{x \to \infty} f(x)$ ```$\displaystyle \lim_{x \to \infty} f(x)$```
 
-$C_{k}^{n}$
+$C_{k}^{n}$ ```$C_{k}^{n}$```
 
 ${n \choose k}$ ```${n \choose k}$```
 
-$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
+$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$ ```$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$```
 
-$$X = \begin{bmatrix}1 & x_{1}\\
+$$X = \begin{bmatrix}
+1 & x_{1}\\
 1 & x_{2}\\
 1 & x_{3}
 \end{bmatrix}$$
