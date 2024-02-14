@@ -1,4 +1,3 @@
-7 boz n
 8 boz a
 16 stefan
 18 rasha
