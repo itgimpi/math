@@ -113,7 +113,7 @@ $$X = \begin{bmatrix}
 1 & x_{1}\\
 1 & x_{2}\\
 1 & x_{3}
-\end{bmatrix}$$\</pre>
+\end{bmatrix}$$</pre>
 
 $$\begin{vmatrix}a & b\\
 c & d
