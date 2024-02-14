@@ -6,5 +6,5 @@
 22 vasa
 23 sava
 24 jelena
-25 
+25 pera
 26 og m
