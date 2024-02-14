@@ -14,6 +14,8 @@ $x \ge y$  ```$x \ge y$```
 
 $x^{n}$ ```$x^{n}$``` $x^n$ ```$x^n$```
 
+$\sqrt{x}$ ```$\sqrt{x}$``` $\sqrt[n]{x}$ ```$\sqrt[n]{x}$```
+
 $x_{n}$, ```$x_{n}$```
 
 $\overline{x}$ ```$\overline{x}$```
@@ -94,20 +96,34 @@ $\lim_{x \to \infty} f(x)$ ```$\lim_{x \to \infty} f(x)$```
 
 $\displaystyle \lim_{x \to \infty} f(x)$ ```$\displaystyle \lim_{x \to \infty} f(x)$```
 
-$C_{k}^{n}$
+$C_{k}^{n}$ ```$C_{k}^{n}$```
 
 ${n \choose k}$ ```${n \choose k}$```
 
-$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
+$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$ ```$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$```
 
-$$X = \begin{bmatrix}1 & x_{1}\\
+$$X = \begin{bmatrix}
+1 & x_{1}\\
 1 & x_{2}\\
 1 & x_{3}
 \end{bmatrix}$$
 
-$$\begin{vmatrix}a & b\\
+<pre>
+$$X = \begin{bmatrix}
+1 & x_{1}\\
+1 & x_{2}\\
+1 & x_{3}
+\end{bmatrix}$$</pre>
+
+$$\begin{vmatrix}
+a & b\\
 c & d
 \end{vmatrix}=ad-bc$$
+
+<pre>
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$</pre>
 
 $\left\lbrace \begin{array}{l}
 \mathrm{Line}\;1\;\mathrm{here}\\
@@ -115,18 +131,23 @@ $\left\lbrace \begin{array}{l}
 \mathrm{Line}\;3\;\mathrm{here}
 \end{array}\right.$
 
+<pre>
+$\left\lbrace \begin{array}{l}
+\mathrm{Line}\;1\;\mathrm{here}\\
+\mathrm{Line}\;2\;\mathrm{here}\\
+\mathrm{Line}\;3\;\mathrm{here}
+\end{array}\right.$</pre>
+
 LATEX markup	Renders as
 
-$\bigl( \Bigl( \biggl( \Biggl($	
+$\bigl( \Bigl( \biggl( \Biggl($	```$\bigl( \Bigl( \biggl( \Biggl($```
 
-${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$
+${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$ ```${\displaystyle {\big (}{\Big (}{\bigg (}{\Bigg (}}$```
 
-$\bigr] \Bigr] \biggr] \Biggr]$	
+$\bigr] \Bigr] \biggr] \Biggr]$	```$\bigr] \Bigr] \biggr] \Biggr]$```
 
-${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$
+${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$ ```${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$```
 
-$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$
+$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$ ```$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$```
 
-${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$	
-
-
+${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$ ```${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$```
