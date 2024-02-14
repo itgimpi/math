@@ -1,4 +1,3 @@
-8 boz a
 16 stefan
 18 rasha
 22 vasa
