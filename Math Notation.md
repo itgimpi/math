@@ -150,6 +150,6 @@ ${\displaystyle {\big ]}{\Big ]}{\bigg ]}{\Bigg ]}}$ ```${\displaystyle {\big ]}
 
 $\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$ ```$\bigl\{ \Bigl\{ \biggl\{ \Biggl\{$```
 
-${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$ ```${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$```	 
+${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$ ```${\displaystyle {\big \{}{\Big \{}{\bigg \{}{\Bigg \{}}$```
 
 
