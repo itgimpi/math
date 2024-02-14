@@ -1,8 +1,8 @@
 1 rasha
 2 miki
-5
-6
-7
+5 niko
+6 mili
+7 vasa
 8
 9
 10
