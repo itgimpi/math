@@ -102,6 +102,12 @@ ${n \choose k}$ ```${n \choose k}$```
 
 $f(k) = {n \choose k} p^{k} (1-p)^{n-k}$ ```$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$```
 
+$\measuredangle ABC$ ```$\measuredangle ABC$```
+
+$\angle ABC$ ```$\angle ABC$```
+
+$\sphericalangle ABC$ ```$\sphericalangle ABC$```
+
 $$X = \begin{bmatrix}
 1 & x_{1}\\
 1 & x_{2}\\
