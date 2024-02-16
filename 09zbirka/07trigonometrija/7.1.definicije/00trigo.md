@@ -2,7 +2,7 @@
 
 **Дефиниције тригинометријских функција оштрог угла.** Нека је  правоугли троугао са правим углом код темена $C, \measuredangle BAC = \alpha$, $\measuredangle ABC = \beta$ и $BC = a, AC = b, AB = c.$ Тада је
 
-<img src="pitagora.jpg" alt="knjiga" style="height: 400px; width:400px;"/>
+<img src="pitagora.jpg" alt="knjiga" style="height: 200px; width:200px;"/>
 
 $sin \alpha =\displaystyle \frac{a}{c},\ cos \alpha =\displaystyle \frac{b}{c},\ tg \alpha =\displaystyle \frac{a}{b},\ ctg \alpha =\displaystyle \frac{b}{a}.\ (1)$
 
