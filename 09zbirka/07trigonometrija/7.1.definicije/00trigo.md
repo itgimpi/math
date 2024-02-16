@@ -22,6 +22,8 @@ $$sin\ \alpha =\displaystyle \frac{наспрамна\ катета}{хипот�
 
 <img src="pr1.jpg" alt="слика 1" style="height: 150px; width:200px;"/>
 
+<img src="s1.png" alt="слика 1" style="height: 300px; width:400px;"/>
+
 $c=\sqrt{24^2+7^2}=25$
 
 $sin\ \alpha=7/25, cos\ \alpha=24/25, tg\ \alpha=7/24, ctg\ \alpha=24/7$
