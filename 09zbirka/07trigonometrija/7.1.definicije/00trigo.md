@@ -4,7 +4,7 @@
 
 <img src="pitagora.jpg" alt="knjiga" style="height: 200px; width:200px;"/>
 
-<img src="sl1.png" alt="slika 1" style="height: 200px; width:200px;"/>
+<img src="slike/s1.png" alt="slika 1" style="height: 200px; width:200px;"/>
 
 $$sin\ \alpha =\displaystyle \frac{a}{c},\ cos\ \alpha =\displaystyle \frac{b}{c},\ tg\ \alpha =\displaystyle \frac{a}{b},\ ctg\ \alpha =\displaystyle \frac{b}{a}.\ (1)$$
 
@@ -22,7 +22,7 @@ $$sin\ \alpha =\displaystyle \frac{наспрамна\ катета}{хипот�
 
 <img src="pr1.jpg" alt="слика 1" style="height: 150px; width:200px;"/>
 
-<img src="s1.png" alt="слика 1" style="height: 300px; width:400px;"/>
+<img src="slike/s2.png" alt="слика 1" style="height: 300px; width:400px;"/>
 
 $c=\sqrt{24^2+7^2}=25$
 
