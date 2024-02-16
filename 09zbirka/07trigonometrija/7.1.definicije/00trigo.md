@@ -64,27 +64,45 @@ $$\ (3) sin ^2\ \alpha+cos ^2\ \alpha=1$$
 
 Исто тако из релације (1) имамо
 
-...
+$tg\ \alpha=\displaystyle \frac{a}{b}=\displaystyle \frac{a/c}{b/c}=\displaystyle \frac{sin\ \alpha}{cos\ \alpha},\ ctg\ \alpha=\displaystyle \frac{b}{a}=\displaystyle \frac{b/c}{a/c}=\displaystyle \frac{cos\ \alpha}{sin\ \alpha},\ tg\ \alpha=\displaystyle \frac{1}{ctg\ \alpha}$
 
-Пошто је...
+$$tg\ \alpha=\displaystyle \frac{sin\ \alpha}{cos\ \alpha},\ ctg\ \alpha=\displaystyle \frac{cos\ \alpha}{sin\ \alpha},\ tg\ \alpha=\displaystyle \frac{1}{ctg\ \alpha}$$
 
-Ако посматрамо...
+Пошто је катета увек мања од хипотенузе, на основу дефиниција тригонометријских функција оштрог угла $\alpha$ (релације (1)) тачне су неједнакости
 
-$(4)$
+$$0\lt\sin\ \alpha\lt1, \ 0\lt\cos\ \alpha\lt1, \ tg \ \alpha \gt0, \ ctg \ \alpha \gt0$$
 
-Пошто је...
+па из идентитета (3) следи
 
-Тиме смо...
+$$sin \ \alpha=\sqrt{1-cos^2\ \alpha}, cos \ \alpha=\sqrt{1-sin^2\ \alpha} (\alpha\ оштар\ угао).$$
 
-Ако углове...
+Ако посматрамо троугао $$ са сл. 1 имамо
 
-Ове...
+$$(4)\ sin\ \beta=\displaystyle \frac{b}{c}, \ cos\ \beta=\displaystyle \frac{a}{c}, \ tg\ \beta=\displaystyle \frac{b}{a}, \ ctg\ \beta=\displaystyle \frac{a}{b}.$$
 
-**Пример 3.** ...
+Пошто је $\alpha+\beta=90^{\circ} \implies \ \beta = 90^{\circ}-\alpha,$ из релација (4) и (1) следи:
 
-...
+$$sin(90^{\circ}-\alpha)=sin\ \beta=\displaystyle \frac{b}{c}=cos\ \alpha$$
 
-Решење.
+$$cos(90^{\circ}-\alpha)=cos\ \beta=\displaystyle \frac{a}{c}=sin\ \alpha$$
+
+$$tg(90^{\circ}-\alpha)=tg\ \beta=\displaystyle \frac{b}{a}=ctg\ \alpha$$
+
+$$ctg(90^{\circ}-\alpha)=ctg\ \beta=\displaystyle \frac{a}{b}=tg\ \alpha$$
+
+Тиме смо доказали формуле:
+
+$sin(90^{\circ}-\alpha)=cos\ \alpha;\ cos(90^{\circ}-\alpha)=sin\ \alpha;\ tg(90^{\circ}-\alpha)=ctg\ \alpha;\ ctg(90^{\circ}-\alpha)=tg\ \alpha.$
+
+Ако углове меримо радијанима, горње једнакости можемо написати:
+
+$sin(\displaystyle \frac{\pi}{2}-\alpha)=cos\ \alpha;\ cos(\displaystyle \frac{\pi}{2}-\alpha)=sin\ \alpha;\ tg(\displaystyle \frac{\pi}{2}-\alpha)=ctg\ \alpha;\ ctg(\displaystyle \frac{\pi}{2}-\alpha)=tg\ \alpha.$
+
+Ове формуле важе не само ако је $\alpha$ оштар угао, тј. $\alpha \in (0,\pi/2)$ већ прва и друга важе за свако $\alpha \in R$ трећа за свако $\alpha \in R, \alpha \neq\ n\pi(n\in Z)$ и четврта за свако $\alpha \in R, \alpha \neq\pi/2 +n\pi(n\in Z)$.
+
+**Пример 3.** Израчунати $cos^2\ 37^{\circ}+cos^2\ 37^{\circ}.$
+
+Решење. Пошто је
 
 ...
 
