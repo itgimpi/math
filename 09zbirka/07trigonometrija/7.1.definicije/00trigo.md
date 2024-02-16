@@ -4,6 +4,8 @@
 
 <img src="pitagora.jpg" alt="knjiga" style="height: 200px; width:200px;"/>
 
+<img src="sl1.png" alt="slika 1" style="height: 200px; width:200px;"/>
+
 $$sin\ \alpha =\displaystyle \frac{a}{c},\ cos\ \alpha =\displaystyle \frac{b}{c},\ tg\ \alpha =\displaystyle \frac{a}{b},\ ctg\ \alpha =\displaystyle \frac{b}{a}.\ (1)$$
 
 Стога се често каже: Ако је $$ оштар угао неког правоуглог троугла, тада је
