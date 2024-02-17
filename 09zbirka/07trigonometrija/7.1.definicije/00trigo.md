@@ -42,6 +42,8 @@ $sin\ \beta=24/25, cos\ \beta=7/25, tg\ \beta=24/7, ctg\ \beta=7/24$
 
 <img src="pr2.jpg" alt="слика 3" style="height: 150px; width:200px;"/>
 
+<img src="slike/slika3.png" alt="слика 3"/>
+
 Применом Питагорине теореме за дужину висине $CD$ добијамо
 
 $h=\sqrt{a^2-\Bigl(\displaystyle \frac{a}{2}\Bigr)^2}=\sqrt{\displaystyle \frac{3a^2}{4}}=\displaystyle \frac{a\sqrt{3}}{2}$
