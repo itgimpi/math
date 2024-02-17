@@ -156,10 +156,33 @@ $$\alpha \lt \beta \Leftrightarrow \ tg \alpha \lt tg \beta,\ ако\ су\ \alp
 
 $$cos(2n\pi+\alpha)=cos\ \alpha,\ sin(2n\pi+\alpha)=sin\ \alpha,\ tg(2n\pi+\alpha)=tg\ \alpha,\ ctg(2n\pi+\alpha)=ctg\ \alpha$$
 
-**Пример 4.** Ако је $sin\ \alpha=2/3\$ и $a \in (-3\pi/2, -\pi)$ израчунати остале тригонометријске функције.
+**Пример 4.** Ако је $sin\ \alpha=2/3$ и $a \in (-3\pi/2, -\pi)$ израчунати остале тригонометријске функције.
 
 Решење.
 
-Ako je...
+Ako je $\measuredangle\ MOA=\alpha$ и $-3\pi/2 \lt \alpha \lt -\pi$ закључујемо да тачка $A$ припада $II$ квадaнту на тригонометријском кругу (сл. 8). 
 
 <img src="sl8.jpg" alt="slika 8" style="height: 200px; width:200px;"/>
+
+Тада је $cos\ \alpha\lt 0$, па је
+
+$cos\ \alpha=-\sqrt{1-sin^2\ \alpha}=-\sqrt{1-(2/3)^2}=\displaystyle -\frac{\sqrt{5}}{3}$ и $\ tg \alpha = \displaystyle \frac{sin \alpha}{cos \alpha}=\displaystyle \frac{2/3}{-\sqrt{5}/3}=\displaystyle -\frac{2}{\sqrt{5}},\ ctg \alpha = \displaystyle \frac{cos \alpha}{sin \alpha}=\displaystyle \frac{-\sqrt{5}/3}{2/3}=\displaystyle -\frac{\sqrt{5}}{2}$
+
+Користећи горњу дефиницију и нека геометријска разматрања, доказују се следеће формуле:
+
+$$cos(-\alpha)=cos\ \alpha,\ cos(\pi-\alpha)=-cos\ \alpha$$
+
+$$sin(-\alpha)=-sin\ \alpha, \ sin(\pi-\alpha)=sin\ \alpha$$
+
+$$tg(-\alpha)=-tg\ \alpha, \ tg(\pi-\alpha)=-tg\ \alpha$$
+
+као и еквиваленције:
+
+$$sin\ \alpha=0 \Leftrightarrow \ \alpha=n\pi\ (n\in \mathbb{Z}),\ односно\ sin\ \alpha\neq0 \Leftrightarrow \ \alpha\neq n\pi;$$
+
+$$cos\ \alpha=0 \Leftrightarrow \ \alpha=\pi/2+n\pi\ (n\in \mathbb{Z}),\ односно\ cos\ \alpha\neq0 \Leftrightarrow \ \alpha\neq \pi/2+n\pi.$$
+
+
+
+
+
