@@ -6,6 +6,8 @@
 
 <img src="slike/s1.png" alt="slika 1" style="height: 200px; width:200px;"/>
 
+
+
 $$sin\ \alpha =\displaystyle \frac{a}{c},\ cos\ \alpha =\displaystyle \frac{b}{c},\ tg\ \alpha =\displaystyle \frac{a}{b},\ ctg\ \alpha =\displaystyle \frac{b}{a}.\ (1)$$
 
 Стога се често каже: Ако је $$ оштар угао неког правоуглог троугла, тада је
@@ -22,7 +24,9 @@ $$sin\ \alpha =\displaystyle \frac{наспрамна\ катета}{хипот�
 
 <img src="pr1.jpg" alt="слика 1" style="height: 150px; width:200px;"/>
 
-<img src="slike/s2.png" alt="слика 1" style="height: 300px; width:400px;"/>
+<img src="slike/slika2.png" alt="slika 1">
+
+<img src="slike/slika2.png" alt="slika 1" style="height: 250px; width:400px;"/>
 
 $c=\sqrt{24^2+7^2}=25$
 
@@ -100,27 +104,41 @@ $sin(\displaystyle \frac{\pi}{2}-\alpha)=cos\ \alpha;\ cos(\displaystyle \frac{\
 
 Ове формуле важе не само ако је $\alpha$ оштар угао, тј. $\alpha \in (0,\pi/2)$ већ прва и друга важе за свако $\alpha \in R$ трећа за свако $\alpha \in R, \alpha \neq\ n\pi(n\in Z)$ и четврта за свако $\alpha \in R, \alpha \neq\pi/2 +n\pi(n\in Z)$.
 
-**Пример 3.** Израчунати $cos^2\ 37^{\circ}+cos^2\ 37^{\circ}.$
+**Пример 3.** Израчунати $cos^2\ 37^{\circ}+cos^2\ 53^{\circ}.$
 
 Решење. Пошто је
 
-...
+$$cos\ 37^{\circ}=sin(90^{\circ}- 37^{\circ})=sin53^{\circ}$$
 
-**Монотоност тригинометријских функција.** Нека је...
+$$cos^2\ 37^{\circ}+cos^2\ 53^{\circ}=sin^2\ 53^{\circ}+cos^2\ 53^{\circ}=1.$$
+
+**Монотоност тригинометријских функција.** Нека је $pOq$ оштар угао и нака је $Or$ полуправа која се налази унутар оштрог угла $pOq$ (сл. 5). Ако ставимо $\measuredangle pOr=\alpha, \measuredangle pOq=\beta,$ тада је $\alpha \lt \beta$.
 
 <img src="sl5.jpg" alt="slika 5" style="height: 200px; width:200px;"/>
 
-Тиме смо...
+Нека је $Q$ произвољна тачка крака $Oq$ и нека права која садржи тачку $Q$ и нормална је на краку $Op$ сече $Or$ у тачки $r$, а $Op$ у $P$. Тада је $OR \lt OQ$ (јер је код троугла $OQR\ \measuredangle OQR \angle\ \lt 90,\measuredangle ORQ \gt 90$, дакле $\measuredangle OQR \lt \measuredangle ORQ \Leftrightarrow OR \lt OQ $), а одатле
 
-$(5)$
+$\frac{1}{OQ} \lt \frac{1}{OR} \Leftrightarrow \frac{OP}{OQ} \lt \frac{OP}{OR} \Leftrightarrow cos \ \beta \lt cos \alpha.$
 
-Из...
+Тиме смо доказали еквиваленцију
+
+$$(5)\ \alpha \lt \beta \Leftrightarrow cos\ \beta \lt cos\ \alpha, \ ако\ су\ \alpha\ и\ \beta \ оштри\ углови.$$
+
+Из (5) добијамо
+
+$$\alpha \lt \beta \Leftrightarrow cos^2\ \beta \lt cos^2\ \alpha \Leftrightarrow 1-cos^2\ \alpha \lt 1-cos^2\  \beta \Leftrightarrow sin^2\ \alpha \lt sin^2\ \beta \Leftrightarrow sin\ \alpha \lt sin\ \beta$$
 
 тј
 
-Исто
+$$\alpha \lt \beta \Leftrightarrow  sin\ \alpha \lt sin\ \beta,\ ако\ су\ \alpha\ и\ \beta\ оштри\ углови.$$
+
+Исто тако (сл. 5)
+
+$$\alpha \lt \beta \Leftrightarrow  PR \lt PQ \Leftrightarrow \frac {PR}{OP} \lt \frac {PQ}{OP} \Leftrightarrow \tg \alpha \lt tg \beta,$$
 
 тј
+
+$$\alpha \lt \beta \Leftrightarrow   \tg \alpha \lt tg \beta,\ ако\ су\ \alpha\ и\ \beta\ оштри\ углови.$$
 
 **Тригинометријске функције ма којег угла.**
 
