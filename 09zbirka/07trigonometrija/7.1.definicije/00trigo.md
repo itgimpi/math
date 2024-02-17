@@ -142,7 +142,7 @@ $$\alpha \lt \beta \Leftrightarrow  PR \lt PQ \Leftrightarrow \frac {PR}{OP} \lt
 
 тј
 
-$$\alpha \lt \beta \Leftrightarrow   \tg \alpha \lt tg \beta,\ ако\ су\ \alpha\ и\ \beta\ оштри\ углови.$$
+$$\alpha \lt \beta \Leftrightarrow \ tg \alpha \lt tg \beta,\ ако\ су\ \alpha\ и\ \beta\ оштри\ углови.$$
 
 **Тригинометријске функције ма којег угла.**
 
