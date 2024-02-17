@@ -2,6 +2,10 @@
 
 **Основни појмови.** 
 
+![abs](s1.jpg "abs")
+
+![sgn](s2.jpg "sgn")
+
 **Пример 1.**
 
 $1.$ uprostiti
@@ -10,4 +14,10 @@ $1^{\circ} \ (\sqrt[3]{a^2} \cdot \sqrt[4]{a^3}):\sqrt[5]{a^4}; \ 2^{\circ} \ a^
 
 Решење.
 
+![s3](s3.jpg "s3")
 
+![s4](s4.jpg "s4")
+
+![s5](s5.jpg "s5")
+
+![s6](s6.jpg "s6")
