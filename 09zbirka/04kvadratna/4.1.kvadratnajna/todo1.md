@@ -1,4 +1,3 @@
-1 pera
 2 miki
 3 rasha
 5 mili
