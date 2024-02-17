@@ -6,11 +6,13 @@
 
 <img src="slike/s1.png" alt="slika 1" style="height: 200px; width:200px;"/>
 
-
+<img src="slike/slika1.png" alt="slika 1"/>
 
 $$sin\ \alpha =\displaystyle \frac{a}{c},\ cos\ \alpha =\displaystyle \frac{b}{c},\ tg\ \alpha =\displaystyle \frac{a}{b},\ ctg\ \alpha =\displaystyle \frac{b}{a}.\ (1)$$
 
-Стога се често каже: Ако је $$ оштар угао неког правоуглог троугла, тада је
+Стога се често каже: Ако је $\alpha$ оштар угао неког правоуглог троугла, тада је
+
+<img src="slike/slika12.png" alt="slika 1"/>
 
 $$sin\ \alpha =\displaystyle \frac{наспрамна\ катета}{хипотенуза},\ cos\ \alpha =\displaystyle \frac{налегла\ катета}{хипотенуза},\ tg\ \alpha =\displaystyle \frac{наспрамна\ катета}{налегла\ катета},\ ctg\ \alpha =\displaystyle \frac{налегла\ катета}{наспрамна\ катета}.\ (1)$$
 
