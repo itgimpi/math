@@ -66,7 +66,7 @@ $(2) \ (sin\ \alpha)^2+(cos\ \alpha)^2 =\biggl( \displaystyle \frac{a}{c}\biggr)
 
 Уместо $(sin\ \alpha)^2$ пише се $sin ^2\ \alpha$, слично важи и за остале тригонометријске функције. Стога се једначина $(2)$ пише у облику
 
-$$\ (3) sin ^2\ \alpha+cos ^2\ \alpha=1$$
+$$\ (3)\ sin ^2\ \alpha+cos ^2\ \alpha=1$$
 
 Ова релација која важи за свако $\alpha$ (не само за оштар угао) позната је као *основни тригонометријски идентитет.*
 
@@ -82,9 +82,9 @@ $$0\lt\sin\ \alpha\lt1, \ 0\lt\cos\ \alpha\lt1, \ tg \ \alpha \gt0, \ ctg \ \alp
 
 па из идентитета (3) следи
 
-$$sin \ \alpha=\sqrt{1-cos^2\ \alpha}, cos \ \alpha=\sqrt{1-sin^2\ \alpha} (\alpha\ оштар\ угао).$$
+$$sin \ \alpha=\sqrt{1-cos^2\ \alpha},\ cos \ \alpha=\sqrt{1-sin^2\ \alpha} (\alpha\ оштар\ угао).$$
 
-Ако посматрамо троугао $$ са сл. 1 имамо
+Ако посматрамо троугао $ABC$ са сл. 1 имамо
 
 $$(4)\ sin\ \beta=\displaystyle \frac{b}{c}, \ cos\ \beta=\displaystyle \frac{a}{c}, \ tg\ \beta=\displaystyle \frac{b}{a}, \ ctg\ \beta=\displaystyle \frac{a}{b}.$$
 
@@ -106,7 +106,7 @@ $sin(90^{\circ}-\alpha)=cos\ \alpha;\ cos(90^{\circ}-\alpha)=sin\ \alpha;\ tg(90
 
 $sin(\displaystyle \frac{\pi}{2}-\alpha)=cos\ \alpha;\ cos(\displaystyle \frac{\pi}{2}-\alpha)=sin\ \alpha;\ tg(\displaystyle \frac{\pi}{2}-\alpha)=ctg\ \alpha;\ ctg(\displaystyle \frac{\pi}{2}-\alpha)=tg\ \alpha.$
 
-Ове формуле важе не само ако је $\alpha$ оштар угао, тј. $\alpha \in (0,\pi/2)$ већ прва и друга важе за свако $\alpha \in R$ трећа за свако $\alpha \in R, \alpha \neq\ n\pi(n\in Z)$ и четврта за свако $\alpha \in R, \alpha \neq\pi/2 +n\pi(n\in Z)$.
+Ове формуле важе не само ако је $\alpha$ оштар угао, тј. $\alpha \in (0,\pi/2)$ већ прва и друга важе за свако $\alpha \in \mathbb{R}$ трећа за свако $\alpha \in \mathbb{R}, \alpha \neq\ n\pi(n\in \mathbb{Z})$ и четврта за свако $\alpha \in \mathbb{R}, \alpha \neq\pi/2 +n\pi(n\in \mathbb{Z})$.
 
 **Пример 3.** Израчунати $cos^2\ 37^{\circ}+cos^2\ 53^{\circ}.$
 
@@ -138,7 +138,7 @@ $$\alpha \lt \beta \Leftrightarrow  sin\ \alpha \lt sin\ \beta,\ ако\ су\ \
 
 Исто тако (сл. 5)
 
-$$\alpha \lt \beta \Leftrightarrow  PR \lt PQ \Leftrightarrow \frac {PR}{OP} \lt \frac {PQ}{OP} \Leftrightarrow \tg \alpha \lt tg \beta,$$
+$$\alpha \lt \beta \Leftrightarrow  PR \lt PQ \Leftrightarrow \frac {PR}{OP} \lt \frac {PQ}{OP} \Leftrightarrow \ tg \alpha \lt tg \beta,$$
 
 тј
 
@@ -146,18 +146,20 @@ $$\alpha \lt \beta \Leftrightarrow   \tg \alpha \lt tg \beta,\ ако\ су\ \al
 
 **Тригинометријске функције ма којег угла.**
 
-**Дефиниција.** ...
+**Дефиниција.** Нека је $\mathbb{Z}$ радијанска мера оријентисаног угла и $а$ одређен број такав да је $2$. Нека је $2$ централни угао тригонометријског круга чија је радијанска мера $а$. Ако је $4$ онда је $5$ позитивно оријентисан (сл. 6), а ако је $5$ онда је $5$ негативно оријентисан (сл. 7).
 
 <img src="sl6.jpg" alt="slika 6" style="height: 200px; width:200px;"/>
 
 <img src="sl7.jpg" alt="slika 7" style="height: 200px; width:200px;"/>
 
-Апсциса
+Апсциса тачке $A$ је $cos \ \alpha (cos \ \beta)$, ордината тачке $A$ је $sin \ \alpha (sin \ \beta)$, ордината тачке $B$ је $tg \ \alpha (tg \ \beta)$, апсциса тачке $C$ је $ctg \ \alpha (ctg \ \beta)$ а тиме и
 
-**Пример 4.** Ако је...
+$$cos(2n\pi+\alpha)=cos\ \alpha,\ sin(2n\pi+\alpha)=sin\ \alpha,\ tg(2n\pi+\alpha)=tg\ \alpha,\ ctg(2n\pi+\alpha)=ctg\ \alpha$$
+
+**Пример 4.** Ако је $sin\ \alpha=2/3\$ и $a \in (-3\pi/2, -\pi)$ израчунати остале тригонометријске функције.
 
 Решење.
 
-...
+Ako je...
 
 <img src="sl8.jpg" alt="slika 8" style="height: 200px; width:200px;"/>
