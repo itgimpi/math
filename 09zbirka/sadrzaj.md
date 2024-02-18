@@ -14,7 +14,7 @@
 
 5. [Експоненцијална функција, једначине и неједначине](https://github.com/itgimpi/math/blob/main/09zbirka/05eksponencijalna/0ekspo.md), 44
 
-6. [Логаритам](hhttps://github.com/itgimpi/math/blob/main/09zbirka/06logaritam/0log.md), 48
+6. [Логаритам](https://github.com/itgimpi/math/blob/main/09zbirka/06logaritam/0log.md), 48
 
 7. [Тригонометрија](https://github.com/itgimpi/math/blob/main/09zbirka/07trigonometrija/0trig.md), 61
 
