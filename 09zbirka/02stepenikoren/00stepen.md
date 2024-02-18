@@ -68,8 +68,8 @@ $$\sqrt[n]{a}=\left\lbrace \begin{array}{l}
 где је
 
 $$|a|=\left\lbrace \begin{array}{l}
-\mathrm{a,}\;\mathrm{a\ge 0}\\
-\mathrm{-a,}\;\mathrm{a\lt 0}\\
+\mathrm{a,}\ \mathrm{a\ge 0}\\
+\mathrm{-a,}\ \mathrm{a\lt 0}\\
 \end{array}\right.$$
 
 **Примери.**
