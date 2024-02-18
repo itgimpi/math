@@ -61,8 +61,8 @@ $$(\sqrt[n]{a})^n=a\ (a \ge 0).$$
 Ако је $а \in \mathbb{R}\ и\ n \in \mathbb{N} $ тада је
 
 $$\sqrt[n]{a}=\left\lbrace \begin{array}{l}
-\mathrm{a,}\;\mathrm{ако\ је\ н\ непаран\ број}\\
-\mathrm{|a|,}\;\mathrm{ако\ је\ н\ паран\ број}\\
+\mathrm{a,}\ \mathrm{ако\ је\ н\ непаран\ број}\\
+\mathrm{|a|,}\ \mathrm{ако\ је\ н\ паран\ број}\\
 \end{array}\right.$$
 
 где је
