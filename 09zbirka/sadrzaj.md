@@ -4,7 +4,7 @@
 
 #### ЗАДАЦИ
 
-1. [Алгебарски изрази](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/00izrazi.md), 7
+1. [Алгебарски изрази](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/0izrazi.md), 7
 
 2. Степеновање и кореновање, 11
 
