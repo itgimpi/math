@@ -6,7 +6,7 @@
 
 1. [Алгебарски изрази](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/0izrazi.md), 7
 
-2. Степеновање и кореновање, 11
+2. [Степеновање и кореновање](https://github.com/itgimpi/math/blob/main/09zbirka/02stepenikoren/0stepen.md), 11
 
 3. Линеарна функција, једначине, неједначине и пропорције, 16
 
