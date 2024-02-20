@@ -1,4 +1,3 @@
-44 pera
 45 rasha
 46 miki
 47 ognjs
