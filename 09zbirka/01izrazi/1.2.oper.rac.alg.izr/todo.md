@@ -4,6 +4,6 @@
 34 vasa
 35 niko
 36 mili
-37 rasa
+37 and
 38 miki
 41 and
