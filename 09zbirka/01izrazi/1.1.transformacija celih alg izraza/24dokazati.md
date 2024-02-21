@@ -1,4 +1,4 @@
-$24.$ Доказати да су бројеви облика ${N} = \displaystyle \underbrace{11 \cdots 1}_\text{k} \ \underbrace{22 \cdots 2}_\text{k+1} ~~~ (k = 0,1 \cdots)$ потпуни квадрати и одредити број облика $\sqrt{N}$. 
+$24.$ Доказати да су бројеви облика $\underbrace{11 \dots 1}_\text{k}~\underbrace{22 \dots 2}_\text{k+1} (k = 0,1,\dots)$ потпуни квадрати и одредити број облика $\sqrt{N}$. 
 
 
 Решење:
