@@ -2,11 +2,10 @@
 2 ra
 3 mik
 4 per
-5 ogs
-6
-7
-8
-9
+6 and
+7 ogm
+8 per
+9 
 10
 11
 ...
