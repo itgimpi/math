@@ -2,16 +2,16 @@
 5 vasa
 6 niko
 7 mili
-8 ogs
 9 ogm
+8 ogs
 10 ba
 11 bn
 12 and
-13 
-14
-15
-16
-17
+13 ogs
+14 pp
+15 mil
+16 ra
+17 mik
 18
 19
 20
