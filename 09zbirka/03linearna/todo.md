@@ -3,14 +3,14 @@
 5 niko
 6 mili
 7 vasa
-8
-9
-10
-11
-12
-13
-14
-15
+8 ba
+9 bn
+10 ogm
+11 and
+12 and
+13 ba
+14 bn
+15 om
 16
 17
 18
