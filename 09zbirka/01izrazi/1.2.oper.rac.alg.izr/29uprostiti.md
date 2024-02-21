@@ -7,3 +7,5 @@ $2^{0}$ $(\displaystyle \frac {3}{a-1} - \displaystyle \frac {3a^{2} + 3a + 3}{a
 
 
 Решење:
+
+
