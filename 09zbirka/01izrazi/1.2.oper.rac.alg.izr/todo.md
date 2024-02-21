@@ -1,4 +1,4 @@
-28 rasha
+28 pera
 30 niko
 31 mili
 34 vasa

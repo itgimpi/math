@@ -12,13 +12,13 @@
 15 mil
 16 ra
 17 mik
-18
-19
-20
-21
-22
-23
-24
+18 om
+19 sava
+20 ba
+21 and
+22 stef
+23 niko
+24 mili
 25
 26
 27
