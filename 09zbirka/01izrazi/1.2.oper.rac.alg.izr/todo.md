@@ -1,4 +1,4 @@
-28 rasha
+28 pera
 30 niko
 31 mili
 34 vasa
@@ -6,4 +6,3 @@
 36 mili
 37 rasa
 38 miki
-41 and

@@ -1,4 +1,4 @@
-16 stefan
-18 rasha
-22 vasa
-24 jelena
+16 and
+18 pera
+22 ogs
+24 miki
