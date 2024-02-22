@@ -1,10 +1,10 @@
 ### 1.1. **Трансформација целих алгебарских израза**
 
-1. Растави на чиниоце: $1^{\circ} \ 16z^2-9x^2-12xy-4y^2;$
+[1. Растави на чиниоце: $1^{\circ} \ 16z^2-9x^2-12xy-4y^2;$](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/1.1.transformacija%20celih%20alg%20izraza/01cinioci.md)
 
-2. Растави на чиниоце: $1^{\circ} \ 9+6a+a^2-b^2-2bc-c^2;$
+[2. Растави на чиниоце: $1^{\circ} \ 9+6a+a^2-b^2-2bc-c^2;$](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/1.1.transformacija%20celih%20alg%20izraza/02cinioci.md)
 
-3. Растави на чиниоце: $1^{\circ} \ x^2y+xy^2+x^2z+xz^2+y^2z+2xyz;$
+[3. Растави на чиниоце: $1^{\circ} \ x^2y+xy^2+x^2z+xz^2+y^2z+2xyz;$](https://github.com/itgimpi/math/blob/main/09zbirka/01izrazi/1.1.transformacija%20celih%20alg%20izraza/03cinioci.md)
 
 4. Доказати да се израз $x^2+y^2+z^2+n^2+a(a+x+y+z+n)$ може трансформисати у збир квадрата четири бинома.
 
