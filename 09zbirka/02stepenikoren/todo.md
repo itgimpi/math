@@ -1,16 +1,11 @@
-2 rasha
 5 vasa
 6 niko
 7 mili
 11 bn
-12 and
 15 mil
-16 ra
 17 mik
-18 om
 19 sava
 20 ba
-21 and
 22 stef
 23 niko
 24 mili
