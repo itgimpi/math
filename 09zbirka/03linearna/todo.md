@@ -5,7 +5,7 @@
 7 vasa
 8 ba
 9 bn
-10 ogm
+10 om
 11 and
 12 and
 13 ba
