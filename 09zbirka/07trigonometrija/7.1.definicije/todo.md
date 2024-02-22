@@ -1,11 +1,11 @@
 1 mili
-2 
+2 os
 3 mik
 6 and
-7 ogm
-9 
+7 om
+9 ba
 10 pera
-11
+11 bn
 12
 13
 14
