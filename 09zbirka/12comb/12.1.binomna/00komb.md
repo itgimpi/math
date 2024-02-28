@@ -10,7 +10,7 @@ $$0!=1, n!=1\cdot 2 \cdot \cdot \cdot n.$$
 
 $$\binom{n}{0} = 1,  \binom{n}{k}=\displaystyle \frac{n(n-1) \cdot \cdot \cdot  (n-k+1)}{k!}\  ако\ је\ k \in \mathbb{N}.$$
 
-На основу ове дефиниције $\binom{n}{k}=0$ ако је $n<k (n,k \in N)$ и
+На основу ове дефиниције $\binom{n}{k}=0$ ако је $n\lt k (n,k \in N)$ и
 
 $$\binom{n}{k}=\displaystyle \frac{n!}{k!(n-k)!}, \ а \ одатле \binom{n}{k}=\binom{n}{n-k}.$$
 
