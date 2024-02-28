@@ -6,5 +6,4 @@
 22 stef
 23 niko
 24 mili
-34 pp
 36 пп
