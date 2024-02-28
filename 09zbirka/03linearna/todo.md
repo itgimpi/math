@@ -1,4 +1,3 @@
-1 rasha
 2 mik
 5 niko
 6 mili
@@ -7,11 +6,10 @@
 9 bn
 13 ba
 14 bn
-15 om
 16 and
 17 and
 18 and
-19
+19 
 20
 21
 22
