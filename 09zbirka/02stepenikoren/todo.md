@@ -3,14 +3,8 @@
 7 mili
 11 bn
 15 mil
-17 mik
 22 stef
 23 niko
 24 mili
-28 pp
-30 mik
-31 and
-34 
-35
+34 pp
 36
-37
