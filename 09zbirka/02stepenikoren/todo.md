@@ -4,7 +4,6 @@
 11 bn
 15 mil
 17 mik
-19 sava
 22 stef
 23 niko
 24 mili
