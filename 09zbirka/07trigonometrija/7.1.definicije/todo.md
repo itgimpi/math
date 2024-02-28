@@ -4,7 +4,6 @@
 6 and
 7 om
 9 ba
-10 pera
 11 bn
 12
 13
