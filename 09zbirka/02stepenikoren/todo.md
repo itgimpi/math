@@ -8,12 +8,10 @@
 22 stef
 23 niko
 24 mili
-25 om
 28 pp
 30 mik
 31 and
 32 om
-33 ba
 34 
 35
 36

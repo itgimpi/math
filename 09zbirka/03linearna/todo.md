@@ -6,7 +6,6 @@
 9 bn
 13 ba
 14 bn
-16 and
 17 and
 18 and
 19 
