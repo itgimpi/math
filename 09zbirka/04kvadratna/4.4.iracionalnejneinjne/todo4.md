@@ -1,6 +1,5 @@
 61 miki
 62 rasa
-64 ogs
 65 and
 66 ba
 67 om

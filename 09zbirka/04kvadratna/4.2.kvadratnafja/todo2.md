@@ -1,6 +1,5 @@
 30 rasha
 32 miki 
-33 ogs
 34 mili
 35 niko
 36 vasa
