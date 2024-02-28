@@ -4,7 +4,6 @@
 6 niko
 7 vasa
 8 ogs
-9 and 
 10 om
 11 ba
 12 bn
