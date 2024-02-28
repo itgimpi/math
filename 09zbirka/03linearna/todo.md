@@ -1,5 +1,5 @@
 1 rasha
-2 miki
+2 mik
 5 niko
 6 mili
 7 vasa
