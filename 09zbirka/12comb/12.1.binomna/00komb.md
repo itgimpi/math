@@ -10,7 +10,16 @@ $$0!=1, n!=1\cdot 2 \cdot \cdot \cdot n.$$
 
 $$\binom{n}{0} = 1,  \binom{n}{k}=\displaystyle \frac{n(n-1) \cdot \cdot \cdot  (n-k+1)}{k!}\  ако\ је\ k \in N.$$
 
-На основу ове дефиниције
+На основу ове дефиниције $\binom{n}{k}=0$ ако је $n<k (n,k\in N)$ и
+
+$$\binom{n}{k}=\displaystyle \frac{n!}{k!(n-k)!}, \ а \ одатле \binom{n}{k}=\binom{n}{n-k}.$$
+
+За сваки природан број $n$ важи једнакост:
+
+$$(1) (x+y)^n =\binom{n}{0}x^ny^0+\binom{n}{1}x^{n-1}y^1+\binom{n}{2}x^{n-2}y^2+\dots+\binom{n}{k}x^{n-k}y^k+\dots+\binom{n}{n}x^0y^n= \sum_{k=0}^{n} \binom{n}{k}x^{n-k}y^k$$
+
+
+
 
 ${(ab)}^n = a^n b^n$ (закон о степеновању производа)
 
