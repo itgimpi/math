@@ -4,12 +4,6 @@
 7 vasa
 8 ba
 9 bn
-<<<<<<< Updated upstream
-=======
--10 om
-11 and
-12 and
->>>>>>> Stashed changes
 13 ba
 14 bn
 17 and
