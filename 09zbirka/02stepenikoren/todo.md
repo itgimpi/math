@@ -1,30 +1,19 @@
-2 rasha
 5 vasa
 6 niko
 7 mili
-9 ogm
-8 ogs
-10 ba
 11 bn
-12 and
-13 ogs
-14 pp
 15 mil
-16 ra
 17 mik
-18 om
 19 sava
 20 ba
-21 and
 22 stef
 23 niko
 24 mili
-25
-26
-27
-28
-29
-30
+25 om
+26 ba
+28 pp
+29 os
+30 mik
 31
 32
 33

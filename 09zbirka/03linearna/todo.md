@@ -1,19 +1,16 @@
 1 rasha
-2 miki
+2 mik
 5 niko
 6 mili
 7 vasa
 8 ba
 9 bn
-10 ogm
-11 and
-12 and
 13 ba
 14 bn
 15 om
-16
-17
-18
+16 and
+17 and
+18 and
 19
 20
 21
