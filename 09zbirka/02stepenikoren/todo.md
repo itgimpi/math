@@ -7,8 +7,6 @@
 23 niko
 24 mili
 30 mik
-31 and
-32 om
 34 pp
 36
 37
