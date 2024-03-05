@@ -4,10 +4,10 @@
 
 <img align="right" width="150" height="100" src="s1.jpg"><br>
 
-$|x|=\left\lbrace \begin{array}{l}
+$|x|= \left \lbrace \begin{array}{l}
 \mathrm{\ \ \ x,}\ \mathrm{x\ge 0}\\
 \mathrm{-x,}\ \mathrm{x\lt 0}\\
-\end{array}\right.$ <br>
+\end{array}\right.$<br>
 
 Сигнум (на латинском знак) функција (знаковна функција)
 
