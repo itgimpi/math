@@ -2,7 +2,7 @@
 
 $|x|= \left \lbrace 
 \begin{array}{l}
-\mathrm{\ \ \ x,}\ \mathrm{x\ge 0}\\
+\mathrm{ x,}\ \mathrm{x\ge 0}\\
 \mathrm{-x,}\ \mathrm{x\lt 0}\\
 \end{array}\right.$<br>
 
@@ -10,7 +10,7 @@ $|x|= \left \lbrace
 
 <img align="right" width="150" height="100" src="s1.jpg"><br>
 
-$|x|= \left \lbrace \begin{array}{l}
+$|x|= \left \lbrace \begin{array}{ll}
 \mathrm{\ \ \ x,}\ \mathrm{x\ge 0}\\
 \mathrm{-x,}\ \mathrm{x\lt 0}\\
 \end{array}\right.$<br>
@@ -19,7 +19,7 @@ $|x|= \left \lbrace \begin{array}{l}
 
 <img align="right" width="150" height="100" src="s2.jpg">
 
-$sgn \ x=\left\lbrace \begin{array}{l}
+$sgn \ x=\left\lbrace \begin{array}{lll}
 \mathrm{\ \ \ 1,}\ \mathrm{x\gt 0}\\
 \mathrm{\ \ \ 0,}\ \mathrm{x= 0}\\
 \mathrm{-1,}\ \mathrm{x\lt 0}\\
@@ -47,7 +47,7 @@ $$x+1\ge 0 \Rightarrow |x+1|=x+1=-(x+1),\ па \ је\  f(x)=x+1.$$
 
 Дакле, функција је облика
 
-$$f(x)=\left\lbrace \begin{array}{l}
+$$f(x)=\left\lbrace \begin{array}{llll}
 \mathrm{-(x+1), \ ако\ је\ x \lt -1}\\
 \mathrm{x+1, \ ако\ је\ x \ge -1.}\\
 \end{array}\right.$$
@@ -101,7 +101,7 @@ $1^{\circ} \ -2x+1<0; \ 2^{\circ} \ -2x+1\ge0;\ 3^{\circ} \ 2x+1\ge 0;\ 4^{\circ
 
 **Пример 2.** Реши систем линеарних једначина
 
-$$\left\lbrace \begin{array}{l}
+$$\left\lbrace \begin{array}{lllll}
 \mathrm{-3x+2\ge 0}\\
 \mathrm{4x+3\gt 0}\\
 \end{array}\right.$$
