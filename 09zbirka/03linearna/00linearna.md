@@ -1,6 +1,7 @@
 ### 3. **Линеарна функција, једначине, неједначине и пропорције**
 
-$|x|= \left \lbrace \begin{array}{l}
+$|x|= \left \lbrace 
+\begin{array}{l}
 \mathrm{\ \ \ x,}\ \mathrm{x\ge 0}\\
 \mathrm{-x,}\ \mathrm{x\lt 0}\\
 \end{array}\right.$<br>
