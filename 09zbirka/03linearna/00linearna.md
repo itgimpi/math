@@ -1,10 +1,10 @@
 ### 3. **Линеарна функција, једначине, неједначине и пропорције**
 
-$|x|= \left \lbrace 
+$|x|=  \lbrace 
 \begin{array}{l}
 \mathrm{ x,}\ \mathrm{x\ge 0}\\
 \mathrm{-x,}\ \mathrm{x\lt 0}
-\end{array} \right.$<br>
+\end{array} .$<br>
 
 **Основни појмови.** Апцолутна вредност (модул) реалног броја $x$ јесте
 
