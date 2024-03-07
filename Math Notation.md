@@ -127,7 +127,8 @@ c & d
 \end{vmatrix}=ad-bc$$
 
 <pre>
-$$\begin{vmatrix}a & b\\
+$$\begin{vmatrix}
+a & b\\
 c & d
 \end{vmatrix}=ad-bc$$</pre>
 
