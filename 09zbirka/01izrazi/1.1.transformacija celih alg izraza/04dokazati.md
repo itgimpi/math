@@ -2,6 +2,6 @@
 
 Решење.
 Јелена:<br>
-<img src="slike/4jel.jpg" alt="слика 1" style="height: 300px; width:800px;"/>
+<img src="slike/4jel.jpg" alt="слика 1" style="height: 300px; width:800px;"/><br>
 Сава:<br>
 <img src="slike/4sava.jpg" alt="слика 1" style="height: 300px; width:800px;"/>
